@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+.myDiv {
+	font-family: Times New Roman;
+	font-size: 15pt;
+	font-weight: bold;
+	padding: 10px 0 10px 0;
+	background-color: rgb(197, 254, 184);
+}
+
+table {
+	font-family: Times New Roman;
+	font-size: 13pt;
+	font-weight: bold;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.myFont {
+	font-family: Times New Roman;
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+.myFont2 {
+	font-family: Times New Roman;
+	font-size: 15pt;
+	font-weight: bold;
+	background-color: rgb(225, 220, 252);
+}
+
+.myError {
+	color: red;
+	text-align: center;
+}
+
+.div1 {
+	margin-bottom: 10px;
+}
+
+.noneBorder {
+	border: none;
+}
+
+.noneBorderHeader {
+	border: none;
+	text-align: center;
+}
